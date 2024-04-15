@@ -40,7 +40,7 @@ celsius_val2 = ((fahrenheit_val2 - 32) * (5/9))
 ```
 
 But we would be in trouble as soon as we had to do this more than a couple times.
-Cutting and pasting it is going to make our code get very long and very repetitive,
+Copying and pasting it is going to make our code get very long and very repetitive,
 very quickly.
 We'd like a way to package our code so that it is easier to reuse,
 a shorthand way of re-executing longer pieces of code. In Python we can use 'functions'.
